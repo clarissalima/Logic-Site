@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Starting"
+description: "Página inicial"
 permalink: /
 ---
 
-# Welcome
+# Seja bem-vindo(a) ao Logic Site!
 {: .fs-9 }
 
-Logic site test
+Este é um passo a passo voltado às pessoas que nunca tiveram contato com programção. Aqui, você aprenderá lógica de programação do zero.
 {: .fs-6 .fw-300 }
 
-[l1br]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[início](http://127.0.0.1:4000/docs/logic/){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2 } 
